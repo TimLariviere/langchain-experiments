@@ -1,0 +1,1 @@
+Sample app using LangChain taking instructions as natural language, generating the corresponding Rust code and then compiling it and running it
